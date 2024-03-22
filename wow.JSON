@@ -18,7 +18,7 @@
     },
     {
       "type": "wireguard",
-      "tag": "Warp-IR",
+      "tag": "Warp-Main",
       "detour": "Warp-Main",
       "local_address": [
         "172.16.0.2/32",
