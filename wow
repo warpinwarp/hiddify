@@ -1,6 +1,6 @@
 //profile-title:base64:bm5ubm5u
 //profile-update-interval: 8
-//subscription-userinfo: upload=0; download=0; total=365; expire=0
+//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=365
 //support-url: https://github.com/hiddify/hiddify-next/releases
 //profile-web-page-url: https://hiddify.com
 {
