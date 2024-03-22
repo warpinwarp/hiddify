@@ -3,7 +3,7 @@
   [
     {
       "type": "wireguard",
-      "tag": "Warp-IR",
+      "tag": "Warp-Main",
       "local_address": [
         "172.16.0.2/32",
         "2606:4700:110:8434:443b:e678:7483:f255/128"
@@ -18,8 +18,8 @@
     },
     {
       "type": "wireguard",
-      "tag": "Warp-Main",
-      "detour": "Warp-IR",
+      "tag": "Warp-IR",
+      "detour": "Warp-Main",
       "local_address": [
         "172.16.0.2/32",
         "2606:4700:110:86c0:20ec:7203:3ee:a4ca/128"
